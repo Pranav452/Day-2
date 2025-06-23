@@ -40,7 +40,7 @@ q1/
 
 ## 📊 Dataset Composition
 
-Our training dataset includes exactly what was requested:
+My training dataset includes exactly what was requested:
 
 | Category | Count | Examples |
 |----------|-------|----------|
