@@ -1,0 +1,12 @@
+prompt,answer,expected_rank,predicted_score
+Tell me a funny joke about programming:,Why do programmers prefer dark mode? Because light attracts bugs!,4,3.45
+Tell me a funny joke about programming:,Programming can be funny sometimes.,2,1.81
+Tell me a funny joke about programming:,Coding is hard work.,1,0.83
+Write a short summary of the benefits of renewable energy:,Renewable energy sources are sustainable and environmentally friendly.,4,3.47
+Write a short summary of the benefits of renewable energy:,Solar and wind power are clean.,3,2.37
+Write a short summary of the benefits of renewable energy:,It's good for environment.,2,1.78
+Write a short summary of the benefits of renewable energy:,Clean energy.,1,0.81
+Explain why reading books is important:,Reading enhances knowledge critical thinking and empathy.,4,3.28
+Explain why reading books is important:,Books help you learn new things.,3,2.57
+Explain why reading books is important:,Reading is educational.,2,1.92
+Explain why reading books is important:,Books good.,1,0.79 
